@@ -1,0 +1,15 @@
+{
+    "name": "osvaldo/composer",
+    "description": "exemplo de projeto com composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "osvaldo",
+            "email": "dino_osvaldo@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
